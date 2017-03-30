@@ -1,0 +1,13 @@
+<div ng-controller="page4">
+    <h3>指令</h3>
+    <hr/>1.ng-include
+    <p>List of Stock</p>
+    <div ng-repeat="stock in stocks">
+        <div ng-include="stockInfo"></div>
+    </div>
+    <hr/>2.自定义指令
+    <p>List of Stock</p>
+    <div ng-repeat="stock in stocks">
+        <div stock-widget></div>
+    </div>
+</div>

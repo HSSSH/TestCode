@@ -1,0 +1,72 @@
+<div ng-controller="page2">
+    <h3>输入检验 服务 标签切换(ng-switch)</h3>
+    {{getNumber}}
+
+    <br/><hr/>
+    <form ng-submit="submit2()" name="form1">
+        Name:<input type="text" name="uname" ng-model="user.name" required ng-minlength="4">
+        <span ng-show="form1.uname.$error.required">Require name</span>
+
+        <br/>Age:<input type="number" ng-model="user.age">
+
+        <br/><input type="submit" value="Submit" ng-disabled="form1.$invalid">
+        <!--会先执行ng-click内容后执行ng-submit内容-->
+        <button ng-click="clickSubmit()">Ng-Click</button>
+    </form>
+
+    <br/><hr/>
+    <div>
+        <button ng-click="open('first')">Open First</button>
+        <button ng-click="open('second')">Open Second</button>
+
+        <div ng-switch = "tab">
+            <div ng-switch-when="first">
+                <div ng-controller="subCtrl">
+                    <h3>First List</h3>
+                    <p>未使用factory</p>
+                    <button ng-click="add()">Add</button>
+                    <ul ng-repeat="item in items">
+                        <span>{{item.id}}</span>
+                        <span>{{item.name}}</span>
+                    </ul>
+                </div>
+            </div>
+            <div ng-switch-when="second">
+                <div ng-controller="subCtrl">
+                    <h3>Second List</h3>
+                    <p>未使用factory</p>
+                    <button ng-click="add()">Add</button>
+                    <ul ng-repeat="item in items">
+                        <span>{{item.id}}</span>
+                        <span>{{item.name}}</span>
+                    </ul>
+                </div>
+            </div>
+
+            <br/><hr/>
+            <div ng-switch-when="first">
+                <div ng-controller="subCtrl2">
+                    <h3>First List</h3>
+                    <p>使用factory</p>
+                    <button ng-click="add()">Add</button>
+                    <ul ng-repeat="item in list()">
+                        <span>{{item.id}}</span>
+                        <span>{{item.name}}</span>
+                    </ul>
+                </div>
+            </div>
+            <div ng-switch-when="second">
+                <div ng-controller="subCtrl2">
+                    <h3>Second List</h3>
+                    <p>使用factory</p>
+                    <button ng-click="add()">Add</button>
+                    <ul ng-repeat="item in list()">
+                        <span>{{item.id}}</span>
+                        <span>{{item.name}}</span>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>

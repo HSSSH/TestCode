@@ -1,0 +1,129 @@
+ul,li{
+    list-style: none;
+}
+
+a{
+    text-decoration:none;
+}
+/***************左菜单****************/
+.left_side {
+    width: 300px;
+    background:#5e6eac;
+    position: fixed;
+    left: 0;
+    top:0;
+    bottom: 0;
+}
+/**************顶部标签****************/
+.top_title {
+    padding:10px 6px;
+}
+
+.top_title ul{
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    padding-left: 0;
+    overflow: hidden;
+}
+
+.top_title ul li{
+    cursor: pointer;
+    float: left;
+    width: 33.333%;
+    line-height: 38px;
+    text-align: center;
+    color: #ffffff;
+    background: #5e6eac;
+}
+
+.top_title ul li span{
+    /*加display: block后span才到顶*/
+    display: block;
+    border-right: 1px solid #ffffff;
+}
+
+.top_title ul li:last-child span{
+    border-right: 0;
+}
+
+.top_title ul li.on span{
+    background: #ffffff;
+    color: #5e6eac;
+}
+/*************手风琴****************/
+.left_menu {
+    height: calc(100% - 100px);
+    overflow:auto;
+    font-size: 18px;
+}
+
+.left_menu ul{
+    padding-left: 0;
+}
+
+.left_menu ul>li ul{
+    display: none;
+}
+/************插件样式改写*************/
+.mCSB_inside > .mCSB_container {
+     margin-right: 10px;
+}
+
+.mCSB_scrollTools .mCSB_buttonUp{
+    background-position: -48px 0;
+}
+
+.mCSB_scrollTools .mCSB_buttonDown{
+    background-position: -48px -20px;
+}
+/***********************************/
+/*.left_menu ul li a{*/
+    /*padding-left: 20px;*/
+/*}*/
+
+/*.left_menu ul li ul li a{*/
+    /*padding-left: 40px;*/
+/*}*/
+
+/*.left_menu ul li ul li ul li a{*/
+    /*padding-left: 60px;*/
+/*}*/
+
+/*.left_menu ul li ul li ul li ul li a{*/
+    /*padding-left: 80px;*/
+/*}*/
+
+.left_menu li a{
+    opacity: 0.6;
+}
+
+.left_menu li:hover a,.left_menu li.on a{
+    opacity: 1;
+}
+
+.left_menu li a:hover,.left_menu li.on>a{
+    background-color: #4b5a98;
+}
+
+.left_menu li.on>a{
+    border-left: solid 2px #ffffff;
+}
+
+.left_menu li a{
+    color: #ffffff;
+    position: relative;
+    display: block;
+    line-height: 40px;
+}
+
+.left_menu li a label{
+    cursor: pointer;
+    position: absolute;
+    top: 0;  right: 0;  bottom: 0;  width: 30px;
+    background: url(../../img/arrowDown.png) no-repeat left center;
+}
+
+.left_menu li.on>a label{
+    background: url(../../img/arrowUp.png) no-repeat left center;
+}
+/***********************************/

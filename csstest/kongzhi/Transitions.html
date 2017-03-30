@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .transitions {
+            background-color: #1dc116;
+            -webkit-transition: background-color 5s ease-out;
+            -ms-transition: background-color 5s ease-out;
+            -moz-transition: background-color 5s ease-out;
+            -o-transition: background-color 5s ease-out;
+            /*ease: 先快后逐渐变慢
+            ease-in: 先慢后快
+            easy-out: 先快后慢
+            easy-in-out: 先慢后快再慢*/
+        }
+        .transitions:hover {
+            background-color: #00ffff;
+        }
+
+        .transitions2 {
+            background-color:#ffff00;
+            color:#000000;
+            width:300px;
+            -webkit-transition: background-color 1s linear, color 1s linear, width 1s linear;
+            -ms-transition: background-color 1s linear, color 1s linear, width 1s linear;
+            -moz-transition: background-color 1s linear, color 1s linear, width 1s linear;
+            -o-transition: background-color 1s linear, color 1s linear, width 1s linear;
+        }
+        .transitions2:hover {
+            background-color: #003366;
+            color: #ffffff;
+            width:400px;
+        }
+
+        .trans_box {
+            background-color: #f0f3f9;
+            width:100%
+        }
+        .trans_list {
+            width: 100px;
+            height: 50px;
+            margin:10px 0;
+            background-color:blue;
+            color:#fff;
+            text-align:center;
+        }
+        .ease {
+            -webkit-transition: all 4s ease;
+            -moz-transition: all 4s ease;
+            -o-transition: all 4s ease;
+            transition: all 4s ease;
+        }
+        .ease_in {
+            -webkit-transition: all 4s ease-in;
+            -moz-transition: all 4s ease-in;
+            -o-transition: all 4s ease-in;
+            transition: all 4s ease-in;
+        }
+        .ease_out {
+            -webkit-transition: all 4s ease-out;
+            -moz-transition: all 4s ease-out;
+            -o-transition: all 4s ease-out;
+            transition: all 4s ease-out;
+        }
+        .ease_in_out {
+            -webkit-transition: all 4s ease-in-out;
+            -moz-transition: all 4s ease-in-out;
+            -o-transition: all 4s ease-in-out;
+            transition: all 4s ease-in-out;
+        }
+        .linear {
+            -webkit-transition: all 4s linear;
+            -moz-transition: all 4s linear;
+            -o-transition: all 4s linear;
+            transition: all 4s linear;
+        }
+        .trans_box:hover .trans_list{
+            margin-left:90%;
+            background-color:#beceeb;
+            color:#333;
+            -webkit-border-radius:25px;
+            -moz-border-radius:25px;
+            -o-border-radius:25px;
+            border-radius:25px;
+            -webkit-transform: rotate(360deg);
+            -moz-transform: rotate(360deg);
+            -o-transform: rotate(360deg);
+            transform: rotate(360deg);
+        }
+
+        .animate {
+            background-color:red;
+            height:100px;
+        }
+        @-webkit-keyframes mycolor {
+            0% {background-color:red;}
+            40% {background-color:darkblue;}
+            70% {background-color: yellow;}
+            100% {background-color:red;}
+        }
+        @-moz-keyframes mycolor {
+            0% {background-color:red;}
+            40% {background-color:darkblue;}
+            70% {background-color: yellow;}
+            100% {background-color:red;}
+        }
+        .animate:hover {
+            -webkit-animation-name: mycolor;
+            -webkit-animation-duration: 5s;
+            -webkit-animation-timing-function:linear;
+            -moz-animation-name: mycolor;
+            -moz-animation-duration: 5s;
+            -moz-animation-timing-function:linear;
+        }
+
+        .old,.new {
+            position:relative;
+            width:500px;
+            height:200px;
+            margin:0 auto;
+        }
+        .new img {position: absolute;}
+        .new img{
+            -webkit-transform:translate(100px,0);
+        }
+        .new2 img {
+            -webkit-transform:translate(-100px,0);
+        }
+        .new3 img {
+            -webkit-transform:translate(0,10px);
+        }
+        .new4 img {
+            -webkit-transform:translate(0,-10px);
+        }
+
+        div.old11,div.new11 {
+            margin:0 auto;
+            position:relative;
+            width:500px;
+        }
+        .new11 img {position: absolute;}
+        .new11 img{
+            -webkit-transform:scale(2,2);
+        }
+
+        div.old33,div.new33 {
+            margin:200px 0 auto;
+            position:relative;
+            width:500px;
+        }
+        div.new33 img{
+            -webkit-transform:rotate(45deg);
+        }
+/*纯css3实现轮播效果*/
+        ul,li{list-style:none;}
+        .slide-container {position:relative;width:384px;height:512px;margin:0 auto;text-align:center;overflow:hidden;}
+        .slide-container input{display:none;}
+
+        .slide_bd {position:absolute;width:100%;height:100%;overflow:hidden;}
+
+        .slide_bd .list {position:absolute;left:0;top:0;width:400%;height:100%;-webkit-transition:left .5s ease-out;-moz-transition:left .5s ease-out;-o-transition:left .5s ease-out;-ms-transition:left .5s ease-out;transition:left .5s ease-out;}
+
+        .slide_bd .list li {float:left;}
+
+        /*  #slider1:checked~.slide_bd .list含义是：匹配#slider1选中的 后面的.slide_bd .list的元素 */
+        /* ~ 是兄弟元素选择器 E~F：匹配位于E元素后面的F元素*/
+
+        #slider1:checked~.slide_bd .list{left:0;}
+        #slider2:checked~.slide_bd .list{left:-100%;}
+        #slider3:checked~.slide_bd .list{left:-200%;}
+
+        .slide_bd .list img{display:block;width:384px;height:512px;overflow:hidden;}
+
+        .num {position:absolute;bottom:10px;width:100%;}
+
+        .num label {display:inline-block;width:10px;height:10px;border-radius:10px;margin:0 5px;background:#999;}
+
+        /* 鼠标移动上去的时候 */
+        .num label:hover,
+        #slider1:checked~.num label:nth-child(1),
+        #slider2:checked~.num label:nth-child(2),
+        #slider3:checked~.num label:nth-child(3){
+            background:#f00;
+            cursor:pointer;
+            -webkit-transform:scale(1.3);
+            -moz-transform:scale(1.3);
+            -o-transform:scale(1.3);
+            -ms-transform:scale(1.3);
+            transform:scale(1.3)
+        }
+/*纯css3实现轮播效果*/
+    </style>
+</head>
+<body>
+    <h2>1.transitions过渡功能</h2>
+    <div class="transitions">transitions过渡功能</div>
+
+    <h2>2.transitions平滑过渡多个属性值</h2>
+    <div class="transitions2">transitions平滑过渡多个属性值</div>
+
+    <h2>3.transitions不同方式</h2>
+    <div id="transBox" class="trans_box">
+        <div class="trans_list ease">ease</div>
+        <div class="trans_list ease_in">ease-in</div>
+        <div class="trans_list ease_out">ease-out</div>
+        <div class="trans_list ease_in_out">ease-in-out</div>
+        <div class="trans_list linear">linear</div>
+    </div>
+
+    <h2>4.使用animate实现更为复杂的动画</h2>
+    <div class="animate">使用animate实现更为复杂的动画</div>
+
+    <h2>5.使用translate水平移动动画</h2>
+    <div class="old">
+        <h3>水平向右移动--原图</h3>
+        <img src="../../img/logo.jpg"  width="150" height="150"/>
+    </div>
+    /* 1. 向右移动 */
+    <div class="new">
+        <h3>水平向右移动--移动的100px图</h3>
+        <img src="../../img/logo.jpg"  width="150" height="150"/>
+    </div>
+    /* 2. 向左移动： */
+    <div class="new new2" style="margin-top:180px;">
+        <h3>水平向左移动--移动的100px图</h3>
+        <img src="../../img/logo.jpg"  width="150" height="150"/>
+    </div>
+
+    <h2>6.使用scale缩放</h2>
+    <div class="old11">
+        <h3>原图</h3>
+        <img src="../../img/logo.jpg"  width="150" height="150"/>
+    </div>
+    <div class="new11">
+        <h3>对x轴放大2倍，对Y轴放大2倍</h3>
+        <img src="../../img/logo.jpg"  width="150" height="150"  style="margin-top:60px;"/>
+    </div>
+
+    <h2>7.使用rotate旋转</h2>
+    <div class="old33">
+        <h3>原图</h3>
+        <img src="../../img/logo.jpg"  width="150" height="150"/>
+    </div>
+    <div class="new33">
+        <h3>对原图旋转45度</h3>
+        <img src="../../img/logo.jpg"  width="150" height="150"  style="margin-top:20px;"/>
+    </div>
+
+    <h2>20.纯css3实现轮播效果</h2>
+    <div class="slide-container">
+        <input type="radio" name="slider2" id="slider1" checked="checked" >
+        <input type="radio" name="slider2" id="slider2" >
+        <input type="radio" name="slider2" id="slider3" >
+        <div class="slide_bd">
+            <ul class="list">
+                <li>
+                    <img src="../../img/logo.jpg"/>
+                </li>
+                <li>
+                    <img src="../../img/panda.jpg"/>
+                </li>
+                <li>
+                    <img src="../../img/logo.png"/>
+                </li>
+            </ul>
+        </div>
+        <div class="num">
+            <label for="slider1"></label>
+            <label for="slider2"></label>
+            <label for="slider3"></label>
+        </div>
+    </div>
+</body>
+</html>

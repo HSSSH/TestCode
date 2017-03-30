@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="../mylibrary/http_code.angularjs.org_1.2.13_angular.js"></script>
+</head>
+<body>
+<div ng-app="myApp">
+
+    <div ng-controller="FirstCtrl">
+        <input type="text" ng-model="data.myMessage">
+        <h2>{{data.myMessage}}</h2>
+    </div>
+
+    <div ng-controller="SecondCtrl">
+        <input type="text" ng-model="data.myMessage">
+        <h2>{{data.myMessage|reversetext}}</h2>
+    </div>
+
+</div>
+
+<script src="06main.js"></script>
+</body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="../libjs/angular.min.js"></script>
+</head>
+<body>
+<div ng-app="myApp">
+
+    <div ng-controller="FirstCtrl">
+        <input type="text" ng-model="data.myMessage">
+        <h2>{{data.myMessage}}</h2>
+    </div>
+
+    <div ng-controller="SecondCtrl">
+        <input type="text" ng-model="data.myMessage">
+        <h2>{{reverseMessage(data.myMessage)}}</h2>
+    </div>
+
+</div>
+
+<script src="04main.js"></script>
+</body>
+</html>

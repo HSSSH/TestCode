@@ -1,0 +1,21 @@
+<div ng-controller="page5">
+    <h3>图片浏览</h3>
+    <div id="Container">
+        <!--小图-->
+        <div class="smallImg">
+            <div class="imgUl" ng-repeat="item in smallImg">
+                <img ng-class="{true:'selectedPic'}[item.selected]" src="{{item.smallSrc}}" ng-click="pickImage(item)"></img>
+            </div>
+        </div>
+        <!--大图-->
+        <div class="imgContainer">
+            <div class="detailImg" >
+                <a id="detailImg-pre" ng-click="prePicture()"></a>
+                <div id="detailImg-box" class="box">
+                    <img alt="{{imageShow.alt}}" src="{{imageShow.src}}"/>
+                </div>
+                <a id="detailImg-next" ng-click="nextPicture()"></a>
+            </div>
+        </div>
+    </div>
+</div>

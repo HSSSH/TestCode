@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="../mylibrary/http_code.angularjs.org_1.2.13_angular.js"></script>
+</head>
+<body>
+<div ng-app="">
+    <input type="text" ng-model="data.myMessage">
+    <h2 style="color:{{data.myMessage}}">wrap with input type</h2>
+
+    <div ng-controller="FirstCtrl">
+        <input type="text" ng-model="data.myMessage">
+        <h2 style=color:{{data.myMessage}}>wrap with input type</h2>
+    </div>
+
+    <div ng-controller="SecondCtrl">
+        <input type="text" ng-model="data.myMessage">
+        <h2 style=color:{{data.myMessage}}>wrap with input type</h2>
+    </div>
+
+</div>
+
+<script src="01main.js"></script>
+</body>
+</html>

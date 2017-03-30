@@ -1,0 +1,29 @@
+<div ng-controller="page3">
+    <h3>过滤器</h3>
+    <button ng-click="currentFilter = 'string'">
+        Filter with String
+    </button>
+    <button ng-click="currentFilter = 'object'">
+        Filter with Object
+    </button>
+    <button ng-click="currentFilter = 'function'">
+        Filter with Function
+    </button>
+
+    <p>Filter Text
+        <input type="text" ng-model="filterOptions['string']">
+    </p>
+    <p>Show Done Only
+        <input type="checkbox" ng-model="filterOptions['object'].done">
+    </p>
+
+    <ul>
+        <li ng-repeat="note in notes|
+                       filter:filterOptions[currentFilter]|
+                       orderBy:sortOrder|
+                       limitTo:16">
+            {{note.label}} - {{note.type}} - {{note.done|tranlation}}
+        </li>
+    </ul>
+
+</div>

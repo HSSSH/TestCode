@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>动画</title>
+    <style>
+        #a1
+        {
+            width:100px;
+            height:100px;
+            background:red;
+            animation:myfirst 5s;
+            -webkit-animation:myfirst 10s; /* Safari and Chrome */
+        }
+
+        @keyframes myfirst
+        {
+            from {background:red;}
+            to {background:yellow;}
+        }
+
+        @-webkit-keyframes myfirst /* Safari and Chrome */
+        {
+            from {background:red;}
+            to {background:yellow;}
+        }
+
+        #a2{
+            width:100px;
+            height:100px;
+            background:red;
+            animation:mysecond 10s;
+            -webkit-animation:mysecond 10s; /* Safari and Chrome */
+        }
+
+        @keyframes mysecond
+        {
+            0%   {background: red;}
+            25%  {background: yellow;}
+            50%  {background: blue;}
+            100% {background: green;}
+        }
+
+        @-webkit-keyframes mysecond /* Safari 与 Chrome */
+        {
+            0%   {background: red;}
+            25%  {background: yellow;}
+            50%  {background: blue;}
+            100% {background: green;}
+        }
+
+
+        #a3{
+            width:100px;
+            height:100px;
+            background:red;
+            position: relative;
+            animation:mythird 10s;
+            -webkit-animation:mythird 10s; /* Safari and Chrome */
+        }
+
+        @keyframes mythird
+        {
+            0%   {background: red; left:0px; top:0px;}
+            25%  {background: yellow; left:200px; top:0px;}
+            50%  {background: blue; left:200px; top:200px;}
+            75%  {background: green; left:0px; top:200px;}
+            100% {background: red; left:0px; top:0px;}
+        }
+
+        @-webkit-keyframes mythird /* Safari 与 Chrome */
+        {
+            0%   {background: red; left:0px; top:0px;}
+            25%  {background: yellow; left:200px; top:0px;}
+            50%  {background: blue; left:200px; top:200px;}
+            75%  {background: green; left:0px; top:200px;}
+            100% {background: red; left:0px; top:0px;}
+        }
+    </style>
+</head>
+<body>
+
+<div id="a1"></div>
+
+<div id="a2"></div>
+
+<div id="a3"></div>
+
+</body>
+</html>

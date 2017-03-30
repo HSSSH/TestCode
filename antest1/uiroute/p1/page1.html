@@ -1,0 +1,54 @@
+<div ng-controller="page1">
+    <h3 style="display: inline-block">表格 json遍历 页面传值</h3>
+    <a href=""  ng-click="deliverToPage2(1)">1</a>
+    <a href=""  ng-click="deliverToPage2(2)">2</a>
+
+<br/><hr/>
+
+    <div ng-repeat="x in note1">
+        <span>{{x.id}}</span>
+        <span>{{x.name}}</span>
+    </div>
+
+<br/><hr/>
+    <div ng-repeat="(x,y) in note2">
+        <span>{{x}}</span>
+        <span>{{y}}</span>
+        <span>{{y.name}}</span>
+    </div>
+
+    <br/><hr/>
+    <div ng-repeat="x in note3">
+        <span>{{$first}}</span>
+        <span>{{$middle}}</span>
+        <span>{{$last}}</span>
+        <span>{{$index}}</span>
+        <span>{{$even}}</span>
+        <span>{{$odd}}</span>
+
+        <span>{{x.id}}</span>
+        <span>{{x.name}}</span>
+    </div>
+
+    <br/><hr/>
+    <table>
+        <tr ng-repeat-start="x in note3">
+            <td>{{x.id}}</td>
+        </tr>
+        <tr ng-repeat-end>
+            <td>{{x.name}}</td>
+        </tr>
+    </table>
+
+    <br/><hr/>
+    {{data}}
+
+    <div ng-repeat="item in datas">
+        <ul>
+            <span>{{item.x}}</span>
+            <span>{{item.y}}</span>
+            <span>{{item.z}}</span>
+        </ul>
+    </div>
+
+</div>

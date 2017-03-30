@@ -1,0 +1,3880 @@
+{
+  "jsonObject": {
+    "DC": [
+      {
+        "expand": true,
+        "id": "27",
+        "text": "滇池湖体",
+        "leaf": false,
+        "basSetId": "0",
+        "rlmcnt": "-",
+        "children": [
+          {
+            "expand": true,
+            "id": "271",
+            "text": "滇池草海",
+            "leaf": false,
+            "basSetId": "27",
+            "rlmcnt": "-",
+            "children": [
+              {
+                "id": "12",
+                "text": "草海中心",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "271",
+                "rlmcnt": { }
+              },
+              {
+                "id": "13",
+                "text": "断桥",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "271",
+                "rlmcnt": { }
+              },
+              {
+                "id": "578",
+                "text": "东风坝出水口",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "271",
+                "rlmcnt": { }
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "272",
+            "text": "滇池外海",
+            "leaf": false,
+            "basSetId": "27",
+            "rlmcnt": "-",
+            "children": [
+              {
+                "id": "16",
+                "text": "灰湾中",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "272",
+                "rlmcnt": { }
+              },
+              {
+                "id": "17",
+                "text": "罗家营",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "272",
+                "rlmcnt": { }
+              },
+              {
+                "id": "18",
+                "text": "观音山东",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "272",
+                "rlmcnt": { }
+              },
+              {
+                "id": "19",
+                "text": "观音山中",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "272",
+                "rlmcnt": { }
+              },
+              {
+                "id": "20",
+                "text": "观音山西",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "272",
+                "rlmcnt": { }
+              },
+              {
+                "id": "21",
+                "text": "海口西",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "272",
+                "rlmcnt": { }
+              },
+              {
+                "id": "22",
+                "text": "滇池南",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "272",
+                "rlmcnt": { }
+              },
+              {
+                "id": "15",
+                "text": "白鱼口",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "272",
+                "rlmcnt": { }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "expand": true,
+        "id": "HL0",
+        "text": "河道",
+        "leaf": false,
+        "basSetId": "0",
+        "rlmcnt": { },
+        "children": [
+          {
+            "expand": true,
+            "id": "602409",
+            "text": "盘龙江",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "26",
+            "children": [
+              {
+                "id": "26",
+                "text": "严家村桥",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602409",
+                "rlmcnt": { }
+              },
+              {
+                "id": "31",
+                "text": "广福路桥（市站）",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602409",
+                "rlmcnt": { }
+              },
+              {
+                "id": "25",
+                "text": "得胜桥(小人桥)",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602409",
+                "rlmcnt": { }
+              },
+              {
+                "id": "32",
+                "text": "大花桥(盘龙站测)",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602409",
+                "rlmcnt": { }
+              },
+              {
+                "expand": true,
+                "id": "ZL602409",
+                "text": "盘龙江支流沟渠",
+                "leaf": false,
+                "basSetId": "602409",
+                "rlmcnt": { },
+                "children": [
+                  {
+                    "id": "595",
+                    "text": "马溺河",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602409",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "596",
+                    "text": "花渔沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602409",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "597",
+                    "text": "麦溪沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602409",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "598",
+                    "text": "财经大学防洪沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602409",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "599",
+                    "text": "学府路防洪大沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602409",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "600",
+                    "text": "省财经学校大沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602409",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "601",
+                    "text": "教场中路防洪沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602409",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "602",
+                    "text": "冶金研究所大沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602409",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "603",
+                    "text": "西干渠",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602409",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "604",
+                    "text": "麻蛇沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602409",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "605",
+                    "text": "花渔沟上段",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602409",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "606",
+                    "text": "麦溪沟上段",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602409",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "607",
+                    "text": "老李山分洪沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602409",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "608",
+                    "text": "星海排洪沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602409",
+                    "rlmcnt": { }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602414",
+            "text": "宝象河",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "46",
+            "children": [
+              {
+                "id": "46",
+                "text": "宝丰村入湖口",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602414",
+                "rlmcnt": { }
+              },
+              {
+                "id": "45",
+                "text": "云大西路桥下",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602414",
+                "rlmcnt": { }
+              },
+              {
+                "id": "44",
+                "text": "大花桥下(原官渡站测)",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602414",
+                "rlmcnt": { }
+              },
+              {
+                "expand": true,
+                "id": "ZL602414",
+                "text": "宝象河支流沟渠",
+                "leaf": false,
+                "basSetId": "602414",
+                "rlmcnt": { },
+                "children": [
+                  {
+                    "id": "609",
+                    "text": "槽河",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602414",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "610",
+                    "text": "海子奶厂排水沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602414",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "611",
+                    "text": "公家村排水沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602414",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "612",
+                    "text": "铁路机修厂排水",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602414",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "613",
+                    "text": "铁路党校技校排水沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602414",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "614",
+                    "text": "昆船麻线沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602414",
+                    "rlmcnt": { }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602447",
+            "text": "金汁河",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "50",
+            "children": [
+              {
+                "id": "50",
+                "text": "枧槽河老官南路",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602447",
+                "rlmcnt": { }
+              },
+              {
+                "id": "49",
+                "text": "拓东路状元楼",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602447",
+                "rlmcnt": { }
+              },
+              {
+                "id": "48",
+                "text": "南天集团",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602447",
+                "rlmcnt": { }
+              },
+              {
+                "id": "47",
+                "text": "王大桥",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602447",
+                "rlmcnt": { }
+              },
+              {
+                "expand": true,
+                "id": "ZL602447",
+                "text": "金汁河支流沟渠",
+                "leaf": false,
+                "basSetId": "602447",
+                "rlmcnt": { },
+                "children": [
+                  {
+                    "id": "615",
+                    "text": "清水河",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602447",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "616",
+                    "text": "羊清河上段",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602447",
+                    "rlmcnt": { }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602434",
+            "text": "大观河",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "53",
+            "children": [
+              {
+                "id": "53",
+                "text": "大观河入湖口(航运公司)",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602434",
+                "rlmcnt": { }
+              },
+              {
+                "id": "52",
+                "text": "环西桥东侧",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602434",
+                "rlmcnt": { }
+              },
+              {
+                "expand": true,
+                "id": "ZL602434",
+                "text": "大观河支流沟渠",
+                "leaf": false,
+                "basSetId": "602434",
+                "rlmcnt": { },
+                "children": [
+                  {
+                    "id": "617",
+                    "text": "篆塘河",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602434",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "618",
+                    "text": "永宁河",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602434",
+                    "rlmcnt": { }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602410",
+            "text": "新河(新运粮河)",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "57",
+            "children": [
+              {
+                "id": "57",
+                "text": "积善村桥",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602410",
+                "rlmcnt": { }
+              },
+              {
+                "id": "56",
+                "text": "昌源河(神俊汽修)",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602410",
+                "rlmcnt": { }
+              },
+              {
+                "id": "55",
+                "text": "人民西路(神工家具)",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602410",
+                "rlmcnt": { }
+              },
+              {
+                "id": "54",
+                "text": "海屯路大石桥",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602410",
+                "rlmcnt": { }
+              },
+              {
+                "expand": true,
+                "id": "ZL602410",
+                "text": "新河(新运粮河)支流沟渠",
+                "leaf": false,
+                "basSetId": "602410",
+                "rlmcnt": { },
+                "children": [
+                  {
+                    "id": "504",
+                    "text": "小普吉排洪沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602410",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "497",
+                    "text": "陈家营岔沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602410",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "503",
+                    "text": "上峰村防洪沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602410",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "496",
+                    "text": "海源河",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602410",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "501",
+                    "text": "白龙河",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602410",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "493",
+                    "text": "大沙河昭宗",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602410",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "500",
+                    "text": "西边小河人民西路",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602410",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "499",
+                    "text": "西边小河昌源北路",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602410",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "498",
+                    "text": "董家沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602410",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "502",
+                    "text": "西边小河汇入新运粮河",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602410",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "492",
+                    "text": "大沙沟草海隧道口",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602410",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "494",
+                    "text": "小沙沟西苑浦路",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602410",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "505",
+                    "text": "渔村沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602410",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "495",
+                    "text": "郑河路沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602410",
+                    "rlmcnt": { }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602445",
+            "text": "柴河",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "58",
+            "children": [
+              {
+                "id": "58",
+                "text": "上蒜小朴闸茨巷河交接处",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602445",
+                "rlmcnt": { }
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602422",
+            "text": "捞鱼河(胜利河)",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "60",
+            "children": [
+              {
+                "id": "60",
+                "text": "大渔乡土罗村入湖口",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602422",
+                "rlmcnt": { }
+              },
+              {
+                "id": "59",
+                "text": "老昆洛路三板桥",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602422",
+                "rlmcnt": { }
+              },
+              {
+                "expand": true,
+                "id": "ZL602422",
+                "text": "捞鱼河(胜利河)支流沟渠",
+                "leaf": false,
+                "basSetId": "602422",
+                "rlmcnt": { },
+                "children": [
+                  {
+                    "id": "619",
+                    "text": "乌龙大沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602422",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "620",
+                    "text": "新河",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602422",
+                    "rlmcnt": { }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602428",
+            "text": "马料河",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "69",
+            "children": [
+              {
+                "id": "69",
+                "text": "回龙村",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602428",
+                "rlmcnt": { }
+              },
+              {
+                "id": "68",
+                "text": "照西桥",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602428",
+                "rlmcnt": { }
+              },
+              {
+                "id": "67",
+                "text": "农学院部队围墙外",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602428",
+                "rlmcnt": { }
+              },
+              {
+                "id": "481",
+                "text": "果林水库出口",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602428",
+                "rlmcnt": { }
+              },
+              {
+                "expand": true,
+                "id": "ZL602428",
+                "text": "马料河支流沟渠",
+                "leaf": false,
+                "basSetId": "602428",
+                "rlmcnt": { },
+                "children": [
+                  {
+                    "id": "621",
+                    "text": "坦克旅排水沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602428",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "622",
+                    "text": "大冲沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602428",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "623",
+                    "text": "民办科技园排水渠",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602428",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "624",
+                    "text": "军法处排水渠",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602428",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "625",
+                    "text": "清水大沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602428",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "626",
+                    "text": "水龙沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602428",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "627",
+                    "text": "公司渠",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602428",
+                    "rlmcnt": { }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602415",
+            "text": "西坝河",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "70",
+            "children": [
+              {
+                "id": "70",
+                "text": "新河村入湖口",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602415",
+                "rlmcnt": { }
+              },
+              {
+                "expand": true,
+                "id": "ZL602415",
+                "text": "西坝河支流沟渠",
+                "leaf": false,
+                "basSetId": "602415",
+                "rlmcnt": { },
+                "children": [
+                  {
+                    "id": "116",
+                    "text": "鸡鸣桥",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602415",
+                    "rlmcnt": { }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602412",
+            "text": "船房河",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "36",
+            "children": [
+              {
+                "id": "36",
+                "text": "船房五社桥头(一检站)",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602412",
+                "rlmcnt": { }
+              },
+              {
+                "id": "71",
+                "text": "船房河与广福路交汇处桥下",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602412",
+                "rlmcnt": { }
+              },
+              {
+                "expand": true,
+                "id": "ZL602412",
+                "text": "船房河支流沟渠",
+                "leaf": false,
+                "basSetId": "602412",
+                "rlmcnt": { },
+                "children": [
+                  {
+                    "id": "628",
+                    "text": "兰花沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602412",
+                    "rlmcnt": { }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602441",
+            "text": "虾坝河",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "72",
+            "children": [
+              {
+                "id": "72",
+                "text": "五甲塘",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602441",
+                "rlmcnt": { }
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602419",
+            "text": "乌龙河",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "73",
+            "children": [
+              {
+                "id": "73",
+                "text": "西南建材市场东门桥头",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602419",
+                "rlmcnt": { }
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602435",
+            "text": "金家河",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "75",
+            "children": [
+              {
+                "id": "75",
+                "text": "金太塘泵站",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602435",
+                "rlmcnt": { }
+              },
+              {
+                "id": "74",
+                "text": "金家河与广福路交汇处桥下",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602435",
+                "rlmcnt": { }
+              },
+              {
+                "expand": true,
+                "id": "ZL602435",
+                "text": "金家河支流沟渠",
+                "leaf": false,
+                "basSetId": "602435",
+                "rlmcnt": { },
+                "children": [
+                  {
+                    "id": "629",
+                    "text": "青苔河",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602435",
+                    "rlmcnt": { }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602421",
+            "text": "洛龙河",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "80",
+            "children": [
+              {
+                "id": "80",
+                "text": "江尾下闸",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602421",
+                "rlmcnt": { }
+              },
+              {
+                "id": "79",
+                "text": "小新册与洛龙社区交界处",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602421",
+                "rlmcnt": { }
+              },
+              {
+                "id": "78",
+                "text": "白龙潭交汇黑龙潭处(放马场)",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602421",
+                "rlmcnt": { }
+              },
+              {
+                "expand": true,
+                "id": "ZL602421",
+                "text": "洛龙河支流沟渠",
+                "leaf": false,
+                "basSetId": "602421",
+                "rlmcnt": { },
+                "children": [
+                  {
+                    "id": "630",
+                    "text": "江尾新沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602421",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "631",
+                    "text": "龙王庙沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602421",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "632",
+                    "text": "牛屎沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602421",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "633",
+                    "text": "第三沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602421",
+                    "rlmcnt": { }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602443",
+            "text": "南冲河",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "82",
+            "children": [
+              {
+                "id": "82",
+                "text": "南冲河滇池入湖口",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602443",
+                "rlmcnt": { }
+              },
+              {
+                "id": "81",
+                "text": "中卫村红山闸",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602443",
+                "rlmcnt": { }
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602439",
+            "text": "五甲宝象河",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "83",
+            "children": [
+              {
+                "id": "83",
+                "text": "曹家村",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602439",
+                "rlmcnt": { }
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602442",
+            "text": "海河",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "84",
+            "children": [
+              {
+                "id": "84",
+                "text": "海河桥",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602442",
+                "rlmcnt": { }
+              },
+              {
+                "expand": true,
+                "id": "ZL602442",
+                "text": "海河支流沟渠",
+                "leaf": false,
+                "basSetId": "602442",
+                "rlmcnt": { },
+                "children": [
+                  {
+                    "id": "635",
+                    "text": "东干渠盘龙区段",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602442",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "636",
+                    "text": "东干渠官渡段",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602442",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "637",
+                    "text": "呼马溪",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602442",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "638",
+                    "text": "凤凰溪",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602442",
+                    "rlmcnt": { }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602466",
+            "text": "大河(淤泥河)",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "85",
+            "children": [
+              {
+                "id": "85",
+                "text": "晋城小寨",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602466",
+                "rlmcnt": { }
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602425",
+            "text": "护城河",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "86",
+            "children": [
+              {
+                "id": "86",
+                "text": "中河滇池入湖口",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602425",
+                "rlmcnt": { }
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602424",
+            "text": "茨巷河",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "87",
+            "children": [
+              {
+                "id": "87",
+                "text": "茨巷河入湖口(牛恋乡)",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602424",
+                "rlmcnt": { }
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602413",
+            "text": "大清河",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "88",
+            "children": [
+              {
+                "id": "88",
+                "text": "大青河泵站",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602413",
+                "rlmcnt": { }
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602416",
+            "text": "采莲河",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "90",
+            "children": [
+              {
+                "id": "91",
+                "text": "海埂公园正大门东侧入湖口",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602416",
+                "rlmcnt": { }
+              },
+              {
+                "id": "90",
+                "text": "海埂公园西侧入湖口",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602416",
+                "rlmcnt": { }
+              },
+              {
+                "id": "89",
+                "text": "广福路桥",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602416",
+                "rlmcnt": { }
+              },
+              {
+                "expand": true,
+                "id": "ZL602416",
+                "text": "采莲河支流沟渠",
+                "leaf": false,
+                "basSetId": "602416",
+                "rlmcnt": { },
+                "children": [
+                  {
+                    "id": "640",
+                    "text": "杨家河上段",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602416",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "641",
+                    "text": "清水河",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602416",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "642",
+                    "text": "清水河下段",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602416",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "643",
+                    "text": "小尚河下段",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602416",
+                    "rlmcnt": { }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602430",
+            "text": "冷水河",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "2",
+            "children": [
+              {
+                "id": "2",
+                "text": "冷水河白邑桥",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602430",
+                "rlmcnt": { }
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602423",
+            "text": "白鱼河",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "94",
+            "children": [
+              {
+                "id": "94",
+                "text": "白渔河入湖口",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602423",
+                "rlmcnt": { }
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602448",
+            "text": "广普大沟",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "95",
+            "children": [
+              {
+                "id": "95",
+                "text": "广普大沟",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602448",
+                "rlmcnt": { }
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602411",
+            "text": "老运粮河",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "100",
+            "children": [
+              {
+                "id": "509",
+                "text": "混流入湖口",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602411",
+                "rlmcnt": { }
+              },
+              {
+                "id": "100",
+                "text": "积中村入湖口",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602411",
+                "rlmcnt": { }
+              },
+              {
+                "id": "99",
+                "text": "西苑立交桥软件园旁",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602411",
+                "rlmcnt": { }
+              },
+              {
+                "id": "98",
+                "text": "人民西路国美电器对面",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602411",
+                "rlmcnt": { }
+              },
+              {
+                "id": "97",
+                "text": "泰和园围墙高新界桩旁",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602411",
+                "rlmcnt": { }
+              },
+              {
+                "id": "96",
+                "text": "洪园居委会旁",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602411",
+                "rlmcnt": { }
+              },
+              {
+                "expand": true,
+                "id": "ZL602411",
+                "text": "老运粮河支流沟渠",
+                "leaf": false,
+                "basSetId": "602411",
+                "rlmcnt": { },
+                "children": [
+                  {
+                    "id": "489",
+                    "text": "七亩沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602411",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "488",
+                    "text": "小路沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602411",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "490",
+                    "text": "鱼翅沟碧鸡名城",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602411",
+                    "rlmcnt": { }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602427",
+            "text": "古城河",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "101",
+            "children": [
+              {
+                "id": "101",
+                "text": "古城河滇池入湖口",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602427",
+                "rlmcnt": { }
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602431",
+            "text": "牧羊河",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "9",
+            "children": [
+              {
+                "id": "9",
+                "text": "小河桥",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602431",
+                "rlmcnt": { }
+              },
+              {
+                "expand": true,
+                "id": "ZL602431",
+                "text": "牧羊河支流沟渠",
+                "leaf": false,
+                "basSetId": "602431",
+                "rlmcnt": { },
+                "children": [
+                  {
+                    "id": "644",
+                    "text": "鼠街河",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602431",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "645",
+                    "text": "铁冲河",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602431",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "646",
+                    "text": "石房子河",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602431",
+                    "rlmcnt": { }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602436",
+            "text": "小清河(入滇河)",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "102",
+            "children": [
+              {
+                "id": "102",
+                "text": "六甲乡新二村",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602436",
+                "rlmcnt": { }
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602426",
+            "text": "东大河",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "103",
+            "children": [
+              {
+                "id": "103",
+                "text": "东大河滇池入湖口",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602426",
+                "rlmcnt": { }
+              },
+              {
+                "expand": true,
+                "id": "ZL602426",
+                "text": "东大河支流沟渠",
+                "leaf": false,
+                "basSetId": "602426",
+                "rlmcnt": { },
+                "children": [
+                  {
+                    "id": "647",
+                    "text": "大春河干渠",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602426",
+                    "rlmcnt": { }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602438",
+            "text": "六甲宝象河",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "104",
+            "children": [
+              {
+                "id": "104",
+                "text": "东张村",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602438",
+                "rlmcnt": { }
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602440",
+            "text": "老宝象河",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "105",
+            "children": [
+              {
+                "id": "105",
+                "text": "龙马村",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602440",
+                "rlmcnt": { }
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602446",
+            "text": "姚安河",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "106",
+            "children": [
+              {
+                "id": "106",
+                "text": "姚安村",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602446",
+                "rlmcnt": { }
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602451",
+            "text": "老盘龙江",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "107",
+            "children": [
+              {
+                "id": "107",
+                "text": "新河村大河嘴",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602451",
+                "rlmcnt": { }
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602418",
+            "text": "枧槽河",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "42",
+            "children": [
+              {
+                "id": "42",
+                "text": "张家庙前与明通河交界处",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602418",
+                "rlmcnt": { }
+              },
+              {
+                "expand": true,
+                "id": "ZL602418",
+                "text": "枧槽河支流沟渠",
+                "leaf": false,
+                "basSetId": "602418",
+                "rlmcnt": { },
+                "children": [
+                  {
+                    "id": "648",
+                    "text": "清水河",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602418",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "649",
+                    "text": "海明河",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602418",
+                    "rlmcnt": { }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602437",
+            "text": "王家堆渠",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "138",
+            "children": [
+              {
+                "id": "138",
+                "text": "湿地管理房旁(王家堆渠)",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602437",
+                "rlmcnt": { }
+              },
+              {
+                "expand": true,
+                "id": "ZL602437",
+                "text": "王家堆渠支流沟渠",
+                "leaf": false,
+                "basSetId": "602437",
+                "rlmcnt": { },
+                "children": [
+                  {
+                    "id": "491",
+                    "text": "车家壁岔沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602437",
+                    "rlmcnt": { }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "expand": true,
+        "id": "YYS0",
+        "text": "饮用水源地",
+        "leaf": false,
+        "basSetId": "0",
+        "rlmcnt": { },
+        "children": [
+          {
+            "expand": true,
+            "id": "421",
+            "text": "松华坝水库",
+            "leaf": false,
+            "basSetId": "YYS0",
+            "rlmcnt": "-",
+            "children": [
+              {
+                "id": "283",
+                "text": "松华坝坝中",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "421",
+                "rlmcnt": { }
+              },
+              {
+                "id": "23",
+                "text": "松华坝口",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "421",
+                "rlmcnt": { }
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "803",
+            "text": "宝象河水库",
+            "leaf": false,
+            "basSetId": "YYS0",
+            "rlmcnt": "-",
+            "children": [
+              {
+                "id": "288",
+                "text": "宝象河水库坝中",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "803",
+                "rlmcnt": { }
+              },
+              {
+                "id": "287",
+                "text": "宝象河水库坝口",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "803",
+                "rlmcnt": { }
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "809",
+            "text": "双龙水库",
+            "leaf": false,
+            "basSetId": "YYS0",
+            "rlmcnt": "-",
+            "children": [
+              {
+                "id": "330",
+                "text": "双龙水库",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "809",
+                "rlmcnt": { }
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "808",
+            "text": "洛武河水库",
+            "leaf": false,
+            "basSetId": "YYS0",
+            "rlmcnt": "-",
+            "children": [
+              {
+                "id": "329",
+                "text": "洛武水库",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "808",
+                "rlmcnt": { }
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "424",
+            "text": "自卫村水库",
+            "leaf": false,
+            "basSetId": "YYS0",
+            "rlmcnt": "-",
+            "children": [
+              {
+                "id": "289",
+                "text": "自卫村坝中",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "424",
+                "rlmcnt": { }
+              },
+              {
+                "id": "282",
+                "text": "自卫村坝口",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "424",
+                "rlmcnt": { }
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "423",
+            "text": "大河水库",
+            "leaf": false,
+            "basSetId": "YYS0",
+            "rlmcnt": "-",
+            "children": [
+              {
+                "id": "413",
+                "text": "大河水库",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "423",
+                "rlmcnt": { }
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "422",
+            "text": "柴河水库",
+            "leaf": false,
+            "basSetId": "YYS0",
+            "rlmcnt": "-",
+            "children": [
+              {
+                "id": "412",
+                "text": "柴河水库",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "422",
+                "rlmcnt": { }
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "802",
+            "text": "云龙水库",
+            "leaf": false,
+            "basSetId": "YYS0",
+            "rlmcnt": "-",
+            "children": [
+              {
+                "id": "350",
+                "text": "云龙坝前",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "802",
+                "rlmcnt": { }
+              },
+              {
+                "id": "349",
+                "text": "云龙坝中",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "802",
+                "rlmcnt": { }
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "818",
+            "text": "清水海水库",
+            "leaf": false,
+            "basSetId": "YYS0",
+            "rlmcnt": "-",
+            "children": [
+              {
+                "id": "296",
+                "text": "清水海",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "818",
+                "rlmcnt": { }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "expand": true,
+        "id": "JDXJC0",
+        "text": "重点排放源",
+        "leaf": false,
+        "basSetId": "0",
+        "rlmcnt": { },
+        "children": [
+          {
+            "id": "673",
+            "text": "第一水质净化厂",
+            "leaf": true,
+            "urlXtype": "bmglcon",
+            "basSetId": "JDXJC0",
+            "rlmcnt": { }
+          },
+          {
+            "id": "664",
+            "text": "第二水质净化厂",
+            "leaf": true,
+            "urlXtype": "bmglcon",
+            "basSetId": "JDXJC0",
+            "rlmcnt": { }
+          },
+          {
+            "id": "668",
+            "text": "第三水质净化厂",
+            "leaf": true,
+            "urlXtype": "bmglcon",
+            "basSetId": "JDXJC0",
+            "rlmcnt": { }
+          },
+          {
+            "id": "671",
+            "text": "第四水质净化厂",
+            "leaf": true,
+            "urlXtype": "bmglcon",
+            "basSetId": "JDXJC0",
+            "rlmcnt": { }
+          },
+          {
+            "id": "672",
+            "text": "第五水质净化厂",
+            "leaf": true,
+            "urlXtype": "bmglcon",
+            "basSetId": "JDXJC0",
+            "rlmcnt": { }
+          },
+          {
+            "id": "666",
+            "text": "第六水质净化厂",
+            "leaf": true,
+            "urlXtype": "bmglcon",
+            "basSetId": "JDXJC0",
+            "rlmcnt": { }
+          },
+          {
+            "id": "667",
+            "text": "第七、八水质净化厂",
+            "leaf": true,
+            "urlXtype": "bmglcon",
+            "basSetId": "JDXJC0",
+            "rlmcnt": { }
+          },
+          {
+            "id": "665",
+            "text": "第九水质净化厂",
+            "leaf": true,
+            "urlXtype": "bmglcon",
+            "basSetId": "JDXJC0",
+            "rlmcnt": { }
+          },
+          {
+            "id": "669",
+            "text": "第十水质净化厂",
+            "leaf": true,
+            "urlXtype": "bmglcon",
+            "basSetId": "JDXJC0",
+            "rlmcnt": { }
+          },
+          {
+            "id": "650",
+            "text": "呈贡县水质净化厂",
+            "leaf": true,
+            "urlXtype": "bmglcon",
+            "basSetId": "JDXJC0",
+            "rlmcnt": { }
+          },
+          {
+            "id": "660",
+            "text": "晋宁县水质净化厂",
+            "leaf": true,
+            "urlXtype": "bmglcon",
+            "basSetId": "JDXJC0",
+            "rlmcnt": { }
+          }
+        ]
+      },
+      {
+        "expand": true,
+        "id": "ZD0",
+        "text": "自动监测",
+        "leaf": false,
+        "basSetId": "0",
+        "rlmcnt": { },
+        "children": [
+          {
+            "expand": true,
+            "id": "WRYZD0",
+            "text": "污染源",
+            "leaf": false,
+            "basSetId": "ZD0",
+            "rlmcnt": { },
+            "children": [
+              {
+                "id": "zd_75",
+                "text": "第一水质净化厂",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "WRYZD0",
+                "rlmcnt": { }
+              },
+              {
+                "id": "zd_80",
+                "text": "第二水质净化厂",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "WRYZD0",
+                "rlmcnt": { }
+              },
+              {
+                "id": "zd_82",
+                "text": "第三水质净化厂",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "WRYZD0",
+                "rlmcnt": { }
+              },
+              {
+                "id": "zd_84",
+                "text": "第四水质净化厂",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "WRYZD0",
+                "rlmcnt": { }
+              },
+              {
+                "id": "zd_89",
+                "text": "第五水质净化厂",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "WRYZD0",
+                "rlmcnt": { }
+              },
+              {
+                "id": "zd_87",
+                "text": "第六水质净化厂",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "WRYZD0",
+                "rlmcnt": { }
+              },
+              {
+                "id": "zd_138",
+                "text": "第七八水质净化厂",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "WRYZD0",
+                "rlmcnt": { }
+              },
+              {
+                "id": "zd_360",
+                "text": "第九水质净化厂",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "WRYZD0",
+                "rlmcnt": { }
+              },
+              {
+                "id": "zd_324",
+                "text": "第十水质净化厂",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "WRYZD0",
+                "rlmcnt": { }
+              },
+              {
+                "id": "zd_100",
+                "text": "昆明市呈贡区排水管理中心",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "WRYZD0",
+                "rlmcnt": { }
+              },
+              {
+                "id": "zd_107",
+                "text": "晋宁清源排水有限公司",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "WRYZD0",
+                "rlmcnt": { }
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "HJZD0",
+            "text": "环境",
+            "leaf": false,
+            "basSetId": "ZD0",
+            "rlmcnt": { },
+            "children": [
+              {
+                "id": "zd_273",
+                "text": "西园隧道水质自动站",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "HJZD0",
+                "rlmcnt": { }
+              },
+              {
+                "id": "zd_272",
+                "text": "观音山水质自动站",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "HJZD0",
+                "rlmcnt": { }
+              },
+              {
+                "id": "zd_270",
+                "text": "滇池南水质自动站",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "HJZD0",
+                "rlmcnt": { }
+              },
+              {
+                "id": "zd_271",
+                "text": "罗家营水质自动站",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "HJZD0",
+                "rlmcnt": { }
+              },
+              {
+                "id": "zd_176",
+                "text": "盘龙江水质自动站",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "HJZD0",
+                "rlmcnt": { }
+              },
+              {
+                "id": "zd_-600",
+                "text": "新宝象河水质自动站",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "HJZD0",
+                "rlmcnt": { }
+              },
+              {
+                "id": "zd_-100",
+                "text": "新河（新运粮河）水质自动站",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "HJZD0",
+                "rlmcnt": { }
+              },
+              {
+                "id": "zd_141",
+                "text": "西坝河水质自动站",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "HJZD0",
+                "rlmcnt": { }
+              },
+              {
+                "id": "zd_-300",
+                "text": "船房河水质自动站",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "HJZD0",
+                "rlmcnt": { }
+              },
+              {
+                "id": "zd_148",
+                "text": "金家河水质自动站",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "HJZD0",
+                "rlmcnt": { }
+              },
+              {
+                "id": "zd_146",
+                "text": "洛龙河水质自动站",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "HJZD0",
+                "rlmcnt": { }
+              },
+              {
+                "id": "zd_147",
+                "text": "海河水质自动站",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "HJZD0",
+                "rlmcnt": { }
+              },
+              {
+                "id": "zd_-700",
+                "text": "中河（护城河）水质自动站",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "HJZD0",
+                "rlmcnt": { }
+              },
+              {
+                "id": "zd_-500",
+                "text": "大清河（含明通河）水质自动站",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "HJZD0",
+                "rlmcnt": { }
+              },
+              {
+                "id": "zd_-200",
+                "text": "老运粮河水质自动站",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "HJZD0",
+                "rlmcnt": { }
+              },
+              {
+                "id": "zd_-400",
+                "text": "老宝象河水质自动站",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "HJZD0",
+                "rlmcnt": { }
+              },
+              {
+                "id": "zd_180",
+                "text": "牛栏江河口水质自动站",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "HJZD0",
+                "rlmcnt": { }
+              },
+              {
+                "id": "zd_156",
+                "text": "松花坝水质自动站",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "HJZD0",
+                "rlmcnt": { }
+              },
+              {
+                "id": "zd_155",
+                "text": "云龙水库水质自动站",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "HJZD0",
+                "rlmcnt": { }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "CH": [
+      {
+        "expand": true,
+        "id": "271",
+        "text": "滇池草海",
+        "leaf": false,
+        "basSetId": "27",
+        "rlmcnt": "-",
+        "children": [
+          {
+            "id": "12",
+            "text": "草海中心",
+            "leaf": true,
+            "urlXtype": "bmglcon",
+            "basSetId": "271",
+            "rlmcnt": { }
+          },
+          {
+            "id": "13",
+            "text": "断桥",
+            "leaf": true,
+            "urlXtype": "bmglcon",
+            "basSetId": "271",
+            "rlmcnt": { }
+          },
+          {
+            "id": "578",
+            "text": "东风坝出水口",
+            "leaf": true,
+            "urlXtype": "bmglcon",
+            "basSetId": "271",
+            "rlmcnt": { }
+          }
+        ]
+      },
+      {
+        "expand": true,
+        "id": "HL0",
+        "text": "河道",
+        "leaf": false,
+        "basSetId": "0",
+        "rlmcnt": { },
+        "children": [
+          {
+            "expand": true,
+            "id": "602434",
+            "text": "大观河",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "53",
+            "children": [
+              {
+                "id": "53",
+                "text": "大观河入湖口(航运公司)",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602434",
+                "rlmcnt": { }
+              },
+              {
+                "id": "52",
+                "text": "环西桥东侧",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602434",
+                "rlmcnt": { }
+              },
+              {
+                "expand": true,
+                "id": "ZL602434",
+                "text": "大观河支流沟渠",
+                "leaf": false,
+                "basSetId": "602434",
+                "rlmcnt": { },
+                "children": [
+                  {
+                    "id": "617",
+                    "text": "篆塘河",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602434",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "618",
+                    "text": "永宁河",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602434",
+                    "rlmcnt": { }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602410",
+            "text": "新河(新运粮河)",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "57",
+            "children": [
+              {
+                "id": "57",
+                "text": "积善村桥",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602410",
+                "rlmcnt": { }
+              },
+              {
+                "id": "56",
+                "text": "昌源河(神俊汽修)",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602410",
+                "rlmcnt": { }
+              },
+              {
+                "id": "55",
+                "text": "人民西路(神工家具)",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602410",
+                "rlmcnt": { }
+              },
+              {
+                "id": "54",
+                "text": "海屯路大石桥",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602410",
+                "rlmcnt": { }
+              },
+              {
+                "expand": true,
+                "id": "ZL602410",
+                "text": "新河(新运粮河)支流沟渠",
+                "leaf": false,
+                "basSetId": "602410",
+                "rlmcnt": { },
+                "children": [
+                  {
+                    "id": "504",
+                    "text": "小普吉排洪沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602410",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "497",
+                    "text": "陈家营岔沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602410",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "503",
+                    "text": "上峰村防洪沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602410",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "496",
+                    "text": "海源河",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602410",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "501",
+                    "text": "白龙河",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602410",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "493",
+                    "text": "大沙河昭宗",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602410",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "500",
+                    "text": "西边小河人民西路",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602410",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "499",
+                    "text": "西边小河昌源北路",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602410",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "498",
+                    "text": "董家沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602410",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "502",
+                    "text": "西边小河汇入新运粮河",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602410",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "492",
+                    "text": "大沙沟草海隧道口",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602410",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "494",
+                    "text": "小沙沟西苑浦路",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602410",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "505",
+                    "text": "渔村沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602410",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "495",
+                    "text": "郑河路沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602410",
+                    "rlmcnt": { }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602415",
+            "text": "西坝河",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "70",
+            "children": [
+              {
+                "id": "70",
+                "text": "新河村入湖口",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602415",
+                "rlmcnt": { }
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602412",
+            "text": "船房河",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "36",
+            "children": [
+              {
+                "id": "36",
+                "text": "船房五社桥头(一检站)",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602412",
+                "rlmcnt": { }
+              },
+              {
+                "id": "71",
+                "text": "船房河与广福路交汇处桥下",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602412",
+                "rlmcnt": { }
+              },
+              {
+                "expand": true,
+                "id": "ZL602412",
+                "text": "船房河支流沟渠",
+                "leaf": false,
+                "basSetId": "602412",
+                "rlmcnt": { },
+                "children": [
+                  {
+                    "id": "628",
+                    "text": "兰花沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602412",
+                    "rlmcnt": { }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602419",
+            "text": "乌龙河",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "73",
+            "children": [
+              {
+                "id": "73",
+                "text": "西南建材市场东门桥头",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602419",
+                "rlmcnt": { }
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602411",
+            "text": "老运粮河",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "100",
+            "children": [
+              {
+                "id": "509",
+                "text": "混流入湖口",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602411",
+                "rlmcnt": { }
+              },
+              {
+                "id": "100",
+                "text": "积中村入湖口",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602411",
+                "rlmcnt": { }
+              },
+              {
+                "id": "99",
+                "text": "西苑立交桥软件园旁",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602411",
+                "rlmcnt": { }
+              },
+              {
+                "id": "98",
+                "text": "人民西路国美电器对面",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602411",
+                "rlmcnt": { }
+              },
+              {
+                "id": "97",
+                "text": "泰和园围墙高新界桩旁",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602411",
+                "rlmcnt": { }
+              },
+              {
+                "id": "96",
+                "text": "洪园居委会旁",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602411",
+                "rlmcnt": { }
+              },
+              {
+                "expand": true,
+                "id": "ZL602411",
+                "text": "老运粮河支流沟渠",
+                "leaf": false,
+                "basSetId": "602411",
+                "rlmcnt": { },
+                "children": [
+                  {
+                    "id": "489",
+                    "text": "七亩沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602411",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "488",
+                    "text": "小路沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602411",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "490",
+                    "text": "鱼翅沟碧鸡名城",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602411",
+                    "rlmcnt": { }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602437",
+            "text": "王家堆渠",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "138",
+            "children": [
+              {
+                "id": "138",
+                "text": "湿地管理房旁(王家堆渠)",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602437",
+                "rlmcnt": { }
+              },
+              {
+                "expand": true,
+                "id": "ZL602437",
+                "text": "王家堆渠支流沟渠",
+                "leaf": false,
+                "basSetId": "602437",
+                "rlmcnt": { },
+                "children": [
+                  {
+                    "id": "491",
+                    "text": "车家壁岔沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602437",
+                    "rlmcnt": { }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "expand": true,
+        "id": "JDXJC0",
+        "text": "重点排放源",
+        "leaf": false,
+        "basSetId": "0",
+        "rlmcnt": { },
+        "children": [
+          {
+            "id": "673",
+            "text": "第一水质净化厂",
+            "leaf": true,
+            "urlXtype": "bmglcon",
+            "basSetId": "JDXJC0",
+            "rlmcnt": { }
+          },
+          {
+            "id": "668",
+            "text": "第三水质净化厂",
+            "leaf": true,
+            "urlXtype": "bmglcon",
+            "basSetId": "JDXJC0",
+            "rlmcnt": { }
+          },
+          {
+            "id": "665",
+            "text": "第九水质净化厂",
+            "leaf": true,
+            "urlXtype": "bmglcon",
+            "basSetId": "JDXJC0",
+            "rlmcnt": { }
+          }
+        ]
+      },
+      {
+        "expand": true,
+        "id": "ZD0",
+        "text": "自动监测",
+        "leaf": false,
+        "basSetId": "0",
+        "rlmcnt": { },
+        "children": [
+          {
+            "id": "zd_273",
+            "text": "西园隧道水质自动站",
+            "leaf": true,
+            "urlXtype": "bmglcon",
+            "basSetId": "ZD0",
+            "rlmcnt": { }
+          },
+          {
+            "id": "zd_75",
+            "text": "第一水质净化厂",
+            "leaf": true,
+            "urlXtype": "bmglcon",
+            "basSetId": "ZD0",
+            "rlmcnt": { }
+          },
+          {
+            "id": "zd_82",
+            "text": "第三水质净化厂",
+            "leaf": true,
+            "urlXtype": "bmglcon",
+            "basSetId": "ZD0",
+            "rlmcnt": { }
+          },
+          {
+            "id": "zd_360",
+            "text": "第九水质净化厂",
+            "leaf": true,
+            "urlXtype": "bmglcon",
+            "basSetId": "ZD0",
+            "rlmcnt": { }
+          }
+        ]
+      }
+    ],
+    "GK": [
+      {
+        "expand": true,
+        "id": "271",
+        "text": "滇池草海",
+        "leaf": false,
+        "basSetId": "271",
+        "rlmcnt": { },
+        "children": [
+          {
+            "id": "12",
+            "text": "草海中心",
+            "leaf": true,
+            "urlXtype": "bmglcon",
+            "basSetId": "271",
+            "rlmcnt": { }
+          },
+          {
+            "id": "13",
+            "text": "断桥",
+            "leaf": true,
+            "urlXtype": "bmglcon",
+            "basSetId": "271",
+            "rlmcnt": { }
+          }
+        ]
+      },
+      {
+        "expand": true,
+        "id": "272",
+        "text": "滇池外海",
+        "leaf": false,
+        "basSetId": "27",
+        "rlmcnt": "-",
+        "children": [
+          {
+            "id": "16",
+            "text": "灰湾中",
+            "leaf": true,
+            "urlXtype": "bmglcon",
+            "basSetId": "272",
+            "rlmcnt": { }
+          },
+          {
+            "id": "17",
+            "text": "罗家营",
+            "leaf": true,
+            "urlXtype": "bmglcon",
+            "basSetId": "272",
+            "rlmcnt": { }
+          },
+          {
+            "id": "18",
+            "text": "观音山东",
+            "leaf": true,
+            "urlXtype": "bmglcon",
+            "basSetId": "272",
+            "rlmcnt": { }
+          },
+          {
+            "id": "19",
+            "text": "观音山中",
+            "leaf": true,
+            "urlXtype": "bmglcon",
+            "basSetId": "272",
+            "rlmcnt": { }
+          },
+          {
+            "id": "20",
+            "text": "观音山西",
+            "leaf": true,
+            "urlXtype": "bmglcon",
+            "basSetId": "272",
+            "rlmcnt": { }
+          },
+          {
+            "id": "21",
+            "text": "海口西",
+            "leaf": true,
+            "urlXtype": "bmglcon",
+            "basSetId": "272",
+            "rlmcnt": { }
+          },
+          {
+            "id": "22",
+            "text": "滇池南",
+            "leaf": true,
+            "urlXtype": "bmglcon",
+            "basSetId": "272",
+            "rlmcnt": { }
+          },
+          {
+            "id": "15",
+            "text": "白鱼口",
+            "leaf": true,
+            "urlXtype": "bmglcon",
+            "basSetId": "272",
+            "rlmcnt": { }
+          }
+        ]
+      },
+      {
+        "expand": true,
+        "id": "HL0",
+        "text": "河道",
+        "leaf": false,
+        "basSetId": "0",
+        "rlmcnt": { },
+        "children": [
+          {
+            "expand": true,
+            "id": "602409",
+            "text": "盘龙江",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "26",
+            "children": [
+              {
+                "id": "26",
+                "text": "严家村桥",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602409",
+                "rlmcnt": { }
+              },
+              {
+                "id": "31",
+                "text": "广福路桥（市站）",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602409",
+                "rlmcnt": { }
+              },
+              {
+                "id": "25",
+                "text": "得胜桥(小人桥)",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602409",
+                "rlmcnt": { }
+              },
+              {
+                "id": "32",
+                "text": "大花桥(盘龙站测)",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602409",
+                "rlmcnt": { }
+              },
+              {
+                "expand": true,
+                "id": "ZL602409",
+                "text": "盘龙江支流沟渠",
+                "leaf": false,
+                "basSetId": "602409",
+                "rlmcnt": { },
+                "children": [
+                  {
+                    "id": "595",
+                    "text": "马溺河",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602409",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "596",
+                    "text": "花渔沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602409",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "597",
+                    "text": "麦溪沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602409",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "598",
+                    "text": "财经大学防洪沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602409",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "599",
+                    "text": "学府路防洪大沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602409",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "600",
+                    "text": "省财经学校大沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602409",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "601",
+                    "text": "教场中路防洪沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602409",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "602",
+                    "text": "冶金研究所大沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602409",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "603",
+                    "text": "西干渠",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602409",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "604",
+                    "text": "麻蛇沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602409",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "605",
+                    "text": "花渔沟上段",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602409",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "606",
+                    "text": "麦溪沟上段",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602409",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "607",
+                    "text": "老李山分洪沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602409",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "608",
+                    "text": "星海排洪沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602409",
+                    "rlmcnt": { }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602414",
+            "text": "宝象河",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "46",
+            "children": [
+              {
+                "id": "46",
+                "text": "宝丰村入湖口",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602414",
+                "rlmcnt": { }
+              },
+              {
+                "id": "45",
+                "text": "云大西路桥下",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602414",
+                "rlmcnt": { }
+              },
+              {
+                "id": "44",
+                "text": "大花桥下(原官渡站测)",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602414",
+                "rlmcnt": { }
+              },
+              {
+                "expand": true,
+                "id": "ZL602414",
+                "text": "宝象河支流沟渠",
+                "leaf": false,
+                "basSetId": "602414",
+                "rlmcnt": { },
+                "children": [
+                  {
+                    "id": "609",
+                    "text": "槽河",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602414",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "610",
+                    "text": "海子奶厂排水沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602414",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "611",
+                    "text": "公家村排水沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602414",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "612",
+                    "text": "铁路机修厂排水",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602414",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "613",
+                    "text": "铁路党校技校排水沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602414",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "614",
+                    "text": "昆船麻线沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602414",
+                    "rlmcnt": { }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602447",
+            "text": "金汁河",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "50",
+            "children": [
+              {
+                "id": "50",
+                "text": "枧槽河老官南路",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602447",
+                "rlmcnt": { }
+              },
+              {
+                "id": "49",
+                "text": "拓东路状元楼",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602447",
+                "rlmcnt": { }
+              },
+              {
+                "id": "48",
+                "text": "南天集团",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602447",
+                "rlmcnt": { }
+              },
+              {
+                "id": "47",
+                "text": "王大桥",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602447",
+                "rlmcnt": { }
+              },
+              {
+                "expand": true,
+                "id": "ZL602447",
+                "text": "金汁河支流沟渠",
+                "leaf": false,
+                "basSetId": "602447",
+                "rlmcnt": { },
+                "children": [
+                  {
+                    "id": "615",
+                    "text": "清水河",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602447",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "616",
+                    "text": "羊清河上段",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602447",
+                    "rlmcnt": { }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602434",
+            "text": "大观河",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "53",
+            "children": [
+              {
+                "id": "53",
+                "text": "大观河入湖口(航运公司)",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602434",
+                "rlmcnt": { }
+              },
+              {
+                "id": "52",
+                "text": "环西桥东侧",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602434",
+                "rlmcnt": { }
+              },
+              {
+                "expand": true,
+                "id": "ZL602434",
+                "text": "大观河支流沟渠",
+                "leaf": false,
+                "basSetId": "602434",
+                "rlmcnt": { },
+                "children": [
+                  {
+                    "id": "617",
+                    "text": "篆塘河",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602434",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "618",
+                    "text": "永宁河",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602434",
+                    "rlmcnt": { }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602422",
+            "text": "捞鱼河(胜利河)",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "60",
+            "children": [
+              {
+                "id": "60",
+                "text": "大渔乡土罗村入湖口",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602422",
+                "rlmcnt": { }
+              },
+              {
+                "id": "59",
+                "text": "老昆洛路三板桥",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602422",
+                "rlmcnt": { }
+              },
+              {
+                "expand": true,
+                "id": "ZL602422",
+                "text": "捞鱼河(胜利河)支流沟渠",
+                "leaf": false,
+                "basSetId": "602422",
+                "rlmcnt": { },
+                "children": [
+                  {
+                    "id": "619",
+                    "text": "乌龙大沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602422",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "620",
+                    "text": "新河",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602422",
+                    "rlmcnt": { }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602428",
+            "text": "马料河",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "69",
+            "children": [
+              {
+                "id": "69",
+                "text": "回龙村",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602428",
+                "rlmcnt": { }
+              },
+              {
+                "id": "68",
+                "text": "照西桥",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602428",
+                "rlmcnt": { }
+              },
+              {
+                "id": "67",
+                "text": "农学院部队围墙外",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602428",
+                "rlmcnt": { }
+              },
+              {
+                "id": "481",
+                "text": "果林水库出口",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602428",
+                "rlmcnt": { }
+              },
+              {
+                "expand": true,
+                "id": "ZL602428",
+                "text": "马料河支流沟渠",
+                "leaf": false,
+                "basSetId": "602428",
+                "rlmcnt": { },
+                "children": [
+                  {
+                    "id": "621",
+                    "text": "坦克旅排水沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602428",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "622",
+                    "text": "大冲沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602428",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "623",
+                    "text": "民办科技园排水渠",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602428",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "624",
+                    "text": "军法处排水渠",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602428",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "625",
+                    "text": "清水大沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602428",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "626",
+                    "text": "水龙沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602428",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "627",
+                    "text": "公司渠",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602428",
+                    "rlmcnt": { }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602415",
+            "text": "西坝河",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "70",
+            "children": [
+              {
+                "id": "70",
+                "text": "新河村入湖口",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602415",
+                "rlmcnt": { }
+              },
+              {
+                "expand": true,
+                "id": "ZL602415",
+                "text": "西坝河支流沟渠",
+                "leaf": false,
+                "basSetId": "602415",
+                "rlmcnt": { },
+                "children": [
+                  {
+                    "id": "116",
+                    "text": "鸡鸣桥",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602415",
+                    "rlmcnt": { }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602412",
+            "text": "船房河",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "36",
+            "children": [
+              {
+                "id": "36",
+                "text": "船房五社桥头(一检站)",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602412",
+                "rlmcnt": { }
+              },
+              {
+                "id": "71",
+                "text": "船房河与广福路交汇处桥下",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602412",
+                "rlmcnt": { }
+              },
+              {
+                "expand": true,
+                "id": "ZL602412",
+                "text": "船房河支流沟渠",
+                "leaf": false,
+                "basSetId": "602412",
+                "rlmcnt": { },
+                "children": [
+                  {
+                    "id": "628",
+                    "text": "兰花沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602412",
+                    "rlmcnt": { }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602421",
+            "text": "洛龙河",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "80",
+            "children": [
+              {
+                "id": "80",
+                "text": "江尾下闸",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602421",
+                "rlmcnt": { }
+              },
+              {
+                "id": "79",
+                "text": "小新册与洛龙社区交界处",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602421",
+                "rlmcnt": { }
+              },
+              {
+                "id": "78",
+                "text": "白龙潭交汇黑龙潭处(放马场)",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602421",
+                "rlmcnt": { }
+              },
+              {
+                "expand": true,
+                "id": "ZL602421",
+                "text": "洛龙河支流沟渠",
+                "leaf": false,
+                "basSetId": "602421",
+                "rlmcnt": { },
+                "children": [
+                  {
+                    "id": "630",
+                    "text": "江尾新沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602421",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "631",
+                    "text": "龙王庙沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602421",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "632",
+                    "text": "牛屎沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602421",
+                    "rlmcnt": { }
+                  },
+                  {
+                    "id": "633",
+                    "text": "第三沟",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602421",
+                    "rlmcnt": { }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602466",
+            "text": "大河(淤泥河)",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "85",
+            "children": [
+              {
+                "id": "85",
+                "text": "晋城小寨",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602466",
+                "rlmcnt": { }
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602424",
+            "text": "茨巷河",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "87",
+            "children": [
+              {
+                "id": "87",
+                "text": "茨巷河入湖口(牛恋乡)",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602424",
+                "rlmcnt": { }
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "602426",
+            "text": "东大河",
+            "leaf": false,
+            "basSetId": "HL0",
+            "rlmcnt": "103",
+            "children": [
+              {
+                "id": "103",
+                "text": "东大河滇池入湖口",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "602426",
+                "rlmcnt": { }
+              },
+              {
+                "expand": true,
+                "id": "ZL602426",
+                "text": "东大河支流沟渠",
+                "leaf": false,
+                "basSetId": "602426",
+                "rlmcnt": { },
+                "children": [
+                  {
+                    "id": "647",
+                    "text": "大春河干渠",
+                    "leaf": true,
+                    "urlXtype": "bmglcon",
+                    "basSetId": "ZL602426",
+                    "rlmcnt": { }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "expand": true,
+        "id": "YYS0",
+        "text": "饮用水源地",
+        "leaf": false,
+        "basSetId": "0",
+        "rlmcnt": { },
+        "children": [
+          {
+            "expand": true,
+            "id": "421",
+            "text": "松华坝水库",
+            "leaf": false,
+            "basSetId": "YYS0",
+            "rlmcnt": "-",
+            "children": [
+              {
+                "id": "283",
+                "text": "松华坝坝中",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "421",
+                "rlmcnt": { }
+              },
+              {
+                "id": "23",
+                "text": "松华坝口",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "421",
+                "rlmcnt": { }
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "803",
+            "text": "宝象河水库",
+            "leaf": false,
+            "basSetId": "YYS0",
+            "rlmcnt": "-",
+            "children": [
+              {
+                "id": "288",
+                "text": "宝象河水库坝中",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "803",
+                "rlmcnt": { }
+              },
+              {
+                "id": "287",
+                "text": "宝象河水库坝口",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "803",
+                "rlmcnt": { }
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "424",
+            "text": "自卫村水库",
+            "leaf": false,
+            "basSetId": "YYS0",
+            "rlmcnt": "-",
+            "children": [
+              {
+                "id": "289",
+                "text": "自卫村坝中",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "424",
+                "rlmcnt": { }
+              },
+              {
+                "id": "282",
+                "text": "自卫村坝口",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "424",
+                "rlmcnt": { }
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "423",
+            "text": "大河水库",
+            "leaf": false,
+            "basSetId": "YYS0",
+            "rlmcnt": "-",
+            "children": [
+              {
+                "id": "413",
+                "text": "大河水库",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "423",
+                "rlmcnt": { }
+              }
+            ]
+          },
+          {
+            "expand": true,
+            "id": "422",
+            "text": "柴河水库",
+            "leaf": false,
+            "basSetId": "YYS0",
+            "rlmcnt": "-",
+            "children": [
+              {
+                "id": "412",
+                "text": "柴河水库",
+                "leaf": true,
+                "urlXtype": "bmglcon",
+                "basSetId": "422",
+                "rlmcnt": { }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>渐变</title>
+    <style>
+        #grad1 {
+            height: 200px;
+            background: -webkit-linear-gradient(blue,red,yellow); /* Safari 5.1 - 6.0 */
+            background: -o-linear-gradient(blue,red,yellow); /* Opera 11.1 - 12.0 */
+            background: -moz-linear-gradient(blue,red,yellow); /* Firefox 3.6 - 15 */
+            background: linear-gradient(blue,red,yellow); /* 标准的语法（必须放在最后） */
+        }
+        #grad2 {
+            height: 200px;
+            background: -webkit-linear-gradient(left, red , blue); /* Safari 5.1 - 6.0 */
+            background: -o-linear-gradient(right, red, blue); /* Opera 11.1 - 12.0 */
+            background: -moz-linear-gradient(right, red, blue); /* Firefox 3.6 - 15 */
+            background: linear-gradient(to right, red , blue); /* 标准的语法（必须放在最后） */
+        }
+        #grad3 {
+            height: 200px;
+            background: -webkit-linear-gradient(left top, yellow , blue); /* Safari 5.1 - 6.0 */
+            background: -o-linear-gradient(bottom right, yellow, blue); /* Opera 11.1 - 12.0 */
+            background: -moz-linear-gradient(bottom right, yellow, blue); /* Firefox 3.6 - 15 */
+            background: linear-gradient(to bottom right, yellow , blue); /* 标准的语法（必须放在最后） */
+        }
+        #grad4 {
+            height: 150px;
+            width: 800px;
+            background: -webkit-radial-gradient(red, green, blue); /* Safari 5.1 - 6.0 */
+            background: -o-radial-gradient(red, green, blue); /* Opera 11.6 - 12.0 */
+            background: -moz-radial-gradient(red, green, blue); /* Firefox 3.6 - 15 */
+            background: radial-gradient(red, green, blue); /* 标准的语法（必须放在最后） */
+        }
+    </style>
+</head>
+<body>
+
+<h3>线性渐变 - 从上到下</h3>
+<div id="grad1"></div>
+
+<h3>线性渐变 - 从左到右</h3>
+<div id="grad2"></div>
+
+<h3>线性渐变 - 对角</h3>
+<div id="grad3"></div>
+
+<h3>径向渐变 - 颜色结点均匀分布</h3>
+<div id="grad4"></div>
+
+</body>
+</html>

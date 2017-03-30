@@ -1,0 +1,101 @@
+{
+  "jsonObject": {
+    "gkData": {
+      "sectionId": "26",
+      "rlName": "盘龙江",
+      "date": "2016年12月13日",
+      "leverColor": "Ⅲ类",
+      "standard": "Ⅲ类",
+      "thisMonthWQ": "Ⅲ类",
+      "WPI": "46",
+      "WPILevel": "Ⅲ类",
+      "tail": "↓",
+      "excessive": "总氮",
+      "monitordepartment": "昆明市环境监测中心",
+      "zqmonitordepartment": "滇管局排水站",
+      "flowmonitordepartment": "昆明市水文水资源局",
+      "ISVIEW": false,
+      "ISAERIAL": false
+    },
+    "chart": [
+      {
+        "name": "2016",
+        "data": [
+          58,
+          39,
+          41,
+          39,
+          {
+            "y": 35,
+            "dataLabels": {
+              "enabled": true
+            },
+            "marker": {
+              "fillColor": "#ffffff",
+              "lineColor": "#7CB5EC",
+              "lineWidth": "2"
+            }
+          },
+          80,
+          58,
+          {
+            "y": 113,
+            "dataLabels": {
+              "enabled": true
+            },
+            "marker": {
+              "fillColor": "#ffffff",
+              "lineColor": "#7CB5EC",
+              "lineWidth": "2"
+            }
+          },
+          38,
+          60,
+          59,
+          46
+        ]
+      },
+      {
+        "name": "2015",
+        "data": [
+          {
+            "y": 44,
+            "dataLabels": {
+              "enabled": true
+            },
+            "marker": {
+              "fillColor": "#ffffff",
+              "lineColor": "#434348",
+              "lineWidth": "2"
+            }
+          },
+          44,
+          52,
+          52,
+          58,
+          52,
+          70,
+          58,
+          59,
+          {
+            "y": 74,
+            "dataLabels": {
+              "enabled": true
+            },
+            "marker": {
+              "fillColor": "#ffffff",
+              "lineColor": "#434348",
+              "lineWidth": "2"
+            }
+          },
+          48,
+          55
+        ]
+      },
+      {
+        "thisYearDL": "",
+        "lastYearDL": ""
+      }
+    ]
+  }
+}

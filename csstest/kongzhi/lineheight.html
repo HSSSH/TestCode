@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .one *{
+            margin:0;
+            padding:0;
+        }
+        .one ul,li{
+            list-style:none;
+        }
+
+        .two .list {
+            float:left;
+            margin:20px;
+            width:250px;
+            height:150px;
+            display:table;
+            text-align:center;
+            border:1px solid #d3d3d3;
+        }
+        .two .list li{
+            display:table-cell;
+            vertical-align:middle;
+        }
+
+        .three h1:before{
+            content:counter(mycounter)".";
+        }
+        .three h1{
+            counter-increment:mycounter;
+        }
+
+        .four  *{
+            margin:0;
+            padding:0;
+        }
+        .four {
+            font-size:30px;
+            line-height:120%;
+            /*line-height有下面五种可能的值*/
+                /*normal：默认，约1.2。*/
+                /*number：设置数字，此数字会与当前的字体尺寸相乘来设置行间距。*/
+                /*length: 设置固定的行间距。*/
+                /*%： 基于当前字体尺寸的百分比行间距。*/
+                /*inherit：规定应该从父元素继承line-height属性的值。*/
+        }
+        .four h1 {
+            font-size:24px;
+        }
+        .four p {
+            font-size:10px;
+        }
+        .four div {
+            font-size:5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="one">
+        <p>1.超过一行后显示省略号</p>
+        <p style="width:200px;white-space: nowrap;text-overflow:ellipsis;overflow:hidden;">我武汉东方店hi肉肉肉团阿斯达萨顶顶发感染他人山东省地方反而</p>
+        <!--text-overflow属性  clip | ellipsis 默认值clip
+          clip：当对象内文本溢出时不显示省略标记（...），而是将溢出的部分裁切掉。
+          ellipsis：当对象内文本溢出时显示省略标记（...）。-->
+        <!--white-space：normal | pre | nowrap | pre-wrap | pre-line 默认值为normal
+          normal：默认处理方式。
+          pre：用等宽字体显示预先格式化的文本，不合并文字间的空白距离，当文字超出边界时不换行。可查阅pre对象
+          nowrap：强制在同一行内显示所有文本，直到文本结束或者遭遇br对象。
+          pre-wrap：用等宽字体显示预先格式化的文本，不合并文字间的空白距离，当文字碰到边界时发生换行。
+          pre-line：保持文本的换行，不保留文字间的空白距离，当文字碰到边界时发生换行。-->
+    </div>
+
+    <p>2.图片未知高度垂直居中解决方案</p>
+    <div class="two">
+        <ul class="list">
+            <li>
+                <img src="../../../img/logo.png"/>
+            </li>
+        </ul>
+        <ul class="list">
+            <li>
+                <img src="../../../img/panda.jpg"/>
+            </li>
+        </ul>
+    </div>
+
+    <p>3.使用content属性来插入项目编号</p>
+    <div class="three">
+        <h1>AAAA</h1>
+        <p>BBBB</p>
+        <h1>AAAAA</h1>
+        <p>BBBB</p>
+        <h1>AAAA</h1>
+        <p>BBBB</p>
+    </div>
+
+    <p>4.LineHeight</p>
+    <div class="four">
+        <h1>H1</h1>
+        <p>P</p>
+        <div>DIV</div>
+   </div>
+</body>
+</html>
